@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,6 +13,7 @@ sidebar:
 
     # Sidebar links
     email: gdan994@gmail.com
+    phone: +94 764 429 382
     phone: +94 772 722 210
     website: #do not add http://
     linkedin: damithamarasinghe
@@ -36,14 +37,34 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-          A Software Engineer with background of mobile application developing. 
-          Striving to increase efficiency and very concern about code readability .
+        I’m fortunate in that I’m passionate about my day job. Relaxing for meis coding and keeping up to date
+        with technology.
 
-          - iOS - Developing with Swift/Objective-C, Xcode , Provisioning , TestFlight distribution, RestKit
-          - Environment - Mac OS X + Unix , Windows
-          - Version Control - git , SVN
+        I have always invested time and effort in core skills for building software and this approach 
+        has seen me pick up new skills quickly and succeed on challenging projects many times.
+
+        I enjoy all the challenges this industry offers; delivery, leadership, technology, customer 
+        satisfaction, innovation and on-going learning. Each project is different.
+
+        I like to keep things simple, stay agile and responsive, so I can meet requirements quickly.
+        I tend to design and plan my way to avoid “big-bang” deliveries, preferring an incremental approach with an
+        element of fail-fast.
+
+        I am looking into
+            - node.js - this is a great choice of service for mobile apps and
+                        has the potential to allow for more client-server code sharing
+                        
+            - Android development - this is dominating the market in numbers so I just have to learn it
+#     I have always invested time and effort in core skills for building software and this approach
+# has seen me pick up new skills quickly and succeed on challenging projects many times.
+#           A Software Engineer with background of mobile application developing. 
+#           Striving to increase efficiency and very concern about code readability .
+
+#           - iOS - Developing with Swift/Objective-C, Xcode , Provisioning , TestFlight distribution, RestKit
+#           - Environment - Mac OS X + Unix , Windows
+#           - Version Control - git , SVN
 
 
 education:
@@ -57,83 +78,71 @@ experiences:
     - role: Associate iOS Developer
       time: December 2017 - Present
       company: Arimac Lankas, Sri Lanka
-      # details: |
-      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #   Cum sociis natoque penatibus et magnis dis parturient montes,
-      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      #   error sit voluptatem accusantium doloremque laudantium, totam rem
-      #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      #   architecto beatae vitae dicta sunt explicabo.
+      details: |
+        A short stint with the designers and developers of imigames, Urban Agent, Send2Doc and more.
+        Interacted with and learned from some great designers and developers.
 
-      #     - Bullet point
-      #     - Bullet point 
-
+      
     - role: Trainee iOS Developer
       time: November 2016 - November 2017
       company: Flatorb, Sri Lanka
       details: |
-        in Flatorb working as Mobile developer, in here i'm experience with working 
-        RFID and barcodes and ERP system.
+        I work with an Sri Lanken leading companies to provide ERP.  
+        We work on exciting, impactful apps for eLearning, Transpotation And Sales Force and CMS.
 
     - role: Internship
       time: February 2016 - July 2016 
       company: Visni, Sri Lanka
       details: |
-        in Visini i got the first training regarding iOS developing in there
-        i'm able to learn swift and objective c. and work with REST API's,
-        integrate Google, Facebook , Crashlytics , Stripe etc ... and able
-        to work with core data, auto layouts, integrate
+        First job. Small team. Quickly learned while working on numerous apps.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Send2Doc
+        link: "https://itunes.apple.com/lk/app/send2doc/id1393225906"
+        tagline: "healthcare industry, Send2Doc is a mobile app that has been designed to give patients the chance to connect with their doctors online, in the comfort of their homes, on the go or at their workplaces."
 
-      - title: DevStudio
+      - title: Hiru Star
+        link: "https://itunes.apple.com/lk/app/hiru-star/id1365375090"
+        tagline: "Reality Television Singing Competition where for the first time in Sri Lanka the show marks the real-time voting by the viewers via an innovative App."
+
+      - title: Urban Agent
+        link: ""
+        tagline: "Buy tickets for your nights out and use promo codes for your events and promoters for discounted and exclusive entries"
+
+      - title: Tango Metronome
+        link: "https://itunes.apple.com/us/app/tango-metronome/id1255645753"
+        tagline: "practicing tango music, more specifically tango rhythms contains rhythms like 332, mercado, habenera(milonga), syncopa, vals, pelotita fraseo etc."
+
+      - title: PM&R First Aid
+        link: "https://itunes.apple.com/us/app/pocket-physical-medicine-rehabilitation/id1234479896"
+        tagline: "physician & physical therapist for medical students & residents needing quick access to common pathologies in the field of PM&R."
+
+      - title: IVocal Trainer
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Solution for people who want to improve their voice and singing skills."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -144,9 +153,23 @@ skills:
 
       - name: Objective-C
         level: 65%
+      
+      - name: git
+        level: 65%
+
+      - name: JSON
+        level: 60%
+
+      - name: RESTful web services
+        level: 60%
 
       - name: Java
         level: 50%
+
+
+        
+
+        
 
 footer: >
     Damith Amarasinghe © 2018
