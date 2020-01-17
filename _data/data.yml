@@ -102,48 +102,59 @@ projects:
     assignments:
       - title: minthrm
         link: "https://play.google.com/store/apps/details?id=com.infoseek.minthrm"
-        tagline: "Managing employee information is no more a challenge. Provide a easy attendance marking, leave request, approval and employ directory \n
+        tagline: "Managing employee information is no more a challenge. Provide a easy attendance marking, leave request, approval and employ directory
+        
                   Used Tech: React Native, geolocation, geocoding, maps, react-navigation"
 
       - title: SureFarm
         link: "https://play.google.com/store/apps/details?id=com.testproject2"
-        tagline: "To assist farmers with user registration, insurance quote reception, insurance policy request, insurance claim request, upload documents through the application, upload pictures of damaged crop and crop/yield info recording feature"
-        tagline: "React Native, geolocation, geocoding, maps, localization, router-flux"         
+        tagline: "To assist farmers with user registration, insurance quote reception, insurance policy request, insurance claim request, upload documents through the application, upload pictures of damaged crop and crop/yield info recording feature
+        
+                  Used Tech: React Native, geolocation, geocoding, maps, localization, router-flux"
 
       - title: Umbra
         link: "https://apps.apple.com/us/app/umbra/id1029826001"
-        tagline: "send Anonymous AND Standard messages without revealing your mobile number."
-        tagline: "Swift 4, XMPPFramework, CoreData, Alamofire, OneSignal"
+        tagline: "send Anonymous AND Standard messages without revealing your mobile number.
+        
+                  Used Tech: Swift 4, XMPPFramework, CoreData, Alamofire, OneSignal"
 
       - title: Send2Doc
         link: "https://itunes.apple.com/lk/app/send2doc/id1393225906"
-        tagline: "healthcare industry, Send2Doc is a mobile app that has been designed to give patients the chance to connect with their doctors online, in the comfort of their homes, on the go or at their workplaces."
-        tagline: "Swift 4, Socket.IO, Realm, AFNetworking, OneSignal, WeScan"
+        tagline: "healthcare industry, Send2Doc is a mobile app that has been designed to give patients the chance to connect with their doctors online, in the comfort of their homes, on the go or at their workplaces.
+        
+                  Used Tech: Swift 4, Socket.IO, Realm, AFNetworking, OneSignal, WeScan"
 
       - title: Hiru Star
         link: "https://itunes.apple.com/lk/app/hiru-star/id1365375090"
-        tagline: "Reality Television Singing Competition where for the first time in Sri Lanka the show marks the real-time voting by the viewers via an innovative App."
-        tagline: "Swift 4, Socket.IO, Social Media Logins, Alamofire, SDWebImage, Branch, SwiftyJSON , ObjectMapper, SwiftGifOrigin, Hero"
+        tagline: "Reality Television Singing Competition where for the first time in Sri Lanka the show marks the real-time voting by the viewers via an innovative App.
+
+                  Used Tech: Swift 4, Socket.IO, Social Media Logins, Alamofire, SDWebImage, Branch, SwiftyJSON , ObjectMapper, SwiftGifOrigin, Hero"
 
       - title: Urban Agent
         link: ""
-        tagline: "Buy tickets for your nights out and use promo codes for your events and promoters for discounted and exclusive entries"
-        tagline: "Swift 3, Social Media Logins, Alamofire, SDWebImage, GoogleMaps, SwiftyJSON , ObjectMapper, Braintree"
+        tagline: "Buy tickets for your nights out and use promo codes for your events and promoters for discounted and exclusive entries
+
+                  Used Tech: Swift 3, Social Media Logins, Alamofire, SDWebImage, GoogleMaps, SwiftyJSON , ObjectMapper, Braintree"
 
       - title: Tango Metronome
         link: "https://itunes.apple.com/us/app/tango-metronome/id1255645753"
-        tagline: "practicing tango music, more specifically tango rhythms contains rhythms like 332, mercado, habenera(milonga), syncopa, vals, pelotita fraseo etc."
-        tagline: "Swift 3, AFNetworking, ObjectMapper, EZAudio"
+        tagline: "practicing tango music, more specifically tango rhythms contains rhythms like 332, mercado, habenera(milonga), syncopa, vals, pelotita fraseo etc.
+
+                  Used Tech: Swift 3, AFNetworking, ObjectMapper, EZAudio"
 
       - title: PM&R First Aid
         link: "https://itunes.apple.com/us/app/pocket-physical-medicine-rehabilitation/id1234479896"
-        tagline: "physician & physical therapist for medical students & residents needing quick access to common pathologies in the field of PM&R."
-        tagline: "Swift 3, AFNetworking, ObjectMapper"
+        tagline: "physician & physical therapist for medical students & residents needing quick access to common pathologies in the field of PM&R. 
+        
+                 Used Tech: Swift 3, AFNetworking, ObjectMapper
+        "
 
       - title: IVocal Trainer
         link: "#"
-        tagline: "Solution for people who want to improve their voice and singing skills."
-        tagline: "Swift 3, AFNetworking, EZAudio, Bolts, CoreML"
+        tagline: "Solution for people who want to improve their voice and singing skills.
+        
+                Used Tech: Swift 3, AFNetworking, EZAudio, Bolts, CoreML, CoreData
+        "
 
 # publications:
 #     title: Publications
