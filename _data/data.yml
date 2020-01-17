@@ -102,8 +102,8 @@ projects:
     assignments:
       - title: minthrm
         link: "https://play.google.com/store/apps/details?id=com.infoseek.minthrm"
-        tagline: "Managing employee information is no more a challenge. Provide a easy attendance marking, leave request, approval and employ directory"
-        tagline: "React Native, geolocation, geocoding, maps, react-navigation"   
+        tagline: "Managing employee information is no more a challenge. Provide a easy attendance marking, leave request, approval and employ directory \n
+                  Used Tech: React Native, geolocation, geocoding, maps, react-navigation"
 
       - title: SureFarm
         link: "https://play.google.com/store/apps/details?id=com.testproject2"
